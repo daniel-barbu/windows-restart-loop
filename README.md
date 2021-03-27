@@ -1,1 +1,1 @@
-# TO STOP IT YOU HAVE TO BOOT INTO SAFE MODE AND DELETE THE FILE FROM THE STARTUP FOLDERS. #
+to stop it you have to boot into safe mode and delete the file from the startup folders
